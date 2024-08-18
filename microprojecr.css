@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+}
+.sec-1 {
+  background-color: #ffcd9e;
+  padding: 0px 180px;
+}
+.hatman {
+  width: 450px;
+  height: 450px;
+}
+.container {
+  display: flex;
+}
+.holding {
+  display: flex;
+}
+.ring {
+  padding-top: 60px;
+  width: 55%;
+  justify-content: space-around;
+}
+.mg {
+  width: 45%;
+}
+
+.frotext {
+  font-size: 31px;
+  line-height: 1.2em;
+  padding-bottom: 20px;
+}
+.expell {
+  font-size: 20px;
+  line-height: 1.4em;
+  padding-bottom: 20px;
+  color: #484848;
+}
+
+.sear {
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+.button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border-style: solid;
+  width: 145px;
+  margin-left: 20px;
+}
+.harrytext {
+  color: white;
+  padding-top: 20px;
+  padding-left: 40px;
+}
+.footer-x {
+  background-color: #282828;
+}
+.explex {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 0px;
+}
+.zed {
+  color: white;
+  text-align: left;
+}
+.right-side {
+  color: white;
+}
+.waffaletext {
+  padding: 6px;
+  font: Inter;
+  font-size: 18px;
+}
+p#\30 006 {
+  display: flex;
+  justify-content: end;
+}
+#\30 008 {
+  display: flex;
+  justify-content: end;
+  padding-top: 40px;
+}
+.plex {
+  display: flex;
+  justify-content: end;
+  padding: 6px;
+}
+.torito {
+  display: flex;
+  justify-content: space-between;
+}
+
+.uro {
+  width: 215px;
+  padding: 10px 20px;
+  border-color: black;
+  border-radius: 6px;
+  border-width: 3px;
+  border-style: solid;
+}
