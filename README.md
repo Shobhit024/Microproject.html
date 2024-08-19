@@ -1,0 +1,68 @@
+# Microproject.html
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=S, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <link rel="stylesheet" href="microprojecr.css" />
+
+  <body>
+    <section class="sec-1">
+      <div class="container">
+        <div class="ring">
+          <h1 class="frotext">
+            An inspiring design delivered to<br />
+            your inbox every morning
+          </h1>
+          <p class="expell">
+            Our team scouts the internet for the best designs,<br />
+            illustrations and art and delivers a truly inspiring<br />
+            one every day to your inbox
+          </p>
+          <h2 class="sear">Show me how it looks</h2>
+          <div class="holding">
+            <form class="youform">
+              <input
+                class="uro"
+                type="text"
+                placeholder="Your e-mail address"
+              />
+            </form>
+            <button class="button">Register Now</button>
+          </div>
+          <p class="harrytext">Free - No Spam - No Data Sharing</p>
+        </div>
+        <div class="mg">
+          <image class="hatman" src="dweep io 1.png" alt="hatman"></image>
+        </div>
+      </div>
+    </section>
+    <footer class="footer-x">
+      <div class="explex">
+        <div class="zed">
+          <p id="0001" class="waffaletext">Prompt Generator</p>
+          <p id="0002" class="waffaletext">Dweep Daily</p>
+          <p id="0003" class="waffaletext">All Contributors</p>
+          <p id="0004" class="waffaletext">Your data on Dweep.io</p>
+          <p id="0005" class="waffaletext">Contribute to Dweep</p>
+        </div>
+        <div class="right-side">
+          <div class="hexa">
+            <p id="0006" class="waffaletext">Dweep.io</p>
+            <p id="0007" class="waffaletext">Made with love in India</p>
+            <div class="plex">
+              <image src="LinkedinLogo.png" alt=""></image>
+              <image src="InstagramLogo.png" alt=""></image>
+            </div>
+            <div class="koxtext">
+              <p id="0008" class="waffaletext">hello@dweep.io</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
